@@ -2,30 +2,10 @@ name: geocompy
 channels:
   - conda-forge
 dependencies:
-  - bokeh
-  - branca
-  - cartopy>=0.22
-  - contextily
-  - cython
-  - fiona>=1.9
-  - folium
+  - python=3.13
   - geopandas
-  - geopy
-  - geoviews
-  - hvplot
   - jupyter
   - jupyterlab
-  - mapclassify
-  - matplotlib
-  - nbformat
-  - numpy
   - osmnx
-  - pandas
-  - prettymaps
-  - proj
-  - quarto
   - rasterio
   - rasterstats
-  - richdem
-  - shapely
-  - topojson
