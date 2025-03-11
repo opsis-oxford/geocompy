@@ -5,6 +5,7 @@ dependencies:
   - bokeh
   - branca
   - cartopy>=0.22
+  - contextily
   - cython
   - fiona>=1.9
   - folium
@@ -18,13 +19,13 @@ dependencies:
   - matplotlib
   - nbformat
   - numpy
+  - osmnx
   - pandas
+  - prettymaps
   - proj
   - quarto
   - rasterio
   - rasterstats
+  - richdem
   - shapely
   - topojson
-  - osmnx
-  - contextily
-  - richdem
