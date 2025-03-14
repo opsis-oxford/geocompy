@@ -14,5 +14,7 @@ ipynb/data
 output/nlcd*
 cache/
 
+ipynb/.ipynb_checkpoints/
+
 # ignore the environment folder (geocompyr)
 geocompy
