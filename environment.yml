@@ -6,6 +6,7 @@ dependencies:
   - geopandas
   - jupyter
   - jupyterlab
+  - libpysal
   - osmnx
   - rasterio
   - rasterstats
